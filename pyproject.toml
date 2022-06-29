@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/acteam-ux/natpy"
-"Bug Tracker" = "https://github.com/acteam-ux/natpy/issues"
+"Homepage" = "https://github.com/acteam-ux/hcjflex"
+"Bug Tracker" = "https://github.com/acteam-ux/hcjflex/issues"
